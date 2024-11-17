@@ -92,6 +92,11 @@ Execute the program using runserver command.
         <td>19AI301C</td>
         <td>Python and Linear Algebra(PY&LA)</td>
     </tr>
+     <tr>
+        <td>1.</td>
+        <td>19AI304</td>
+        <td>C Program</td>
+    </tr>
     <tr>
         <td>2.</td>
         <td>19AI414</td>
@@ -116,7 +121,7 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-![alt text](<Screenshot 2024-11-15 143514.png>)
+![alt text](<Screenshot 2024-11-17 185131.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
